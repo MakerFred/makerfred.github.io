@@ -1,17 +1,16 @@
 title: Ezora Theme!
 email: git@ezrasavard.com
-greeting: Welcome to the Ezora Sample Site
+greeting: Welcome to the GM5PROTHESIS Site
 description: > # this means to ignore newlines until another tag
-    Ezora is a responsive Jekyll theme with a clean single column layout, nifty text overlays for images and a mobile friendly navigation bar.
-github:  ezrasavard
-linkedin: ezrasavard
+    Welcome to the GIVE ME 5 PROTHESIS, Cheap and efficient prothesis for alls.
+github:  makerfred
 favicon: favicon.png
 
 # Build settings
 paginate: 3
-baseurl: "/ezorademo" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 #baseurl: ""
-url: "http://www.ezrasavard.com" # the base hostname & protocol for your site
+url: "https://makerfred.github.io" # the base hostname & protocol for your site
 highlights: pygments
 permalink: posts/:title/
 include: ["_pages"]
